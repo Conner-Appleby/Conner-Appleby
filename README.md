@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 my name is Kib-by!
 
 <!--
 **Kib-by/Kib-by** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
