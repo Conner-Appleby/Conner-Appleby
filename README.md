@@ -1,5 +1,5 @@
 ## Hi there 👋 my name is Kib-by!
-## I'm currently working on the Bowtiedbyber Bootcamp Express
+## I'm currently working on the Bowtiedcyber Bootcamp Express
 ## I'm currently learning Linux, Python, Traffic analysis, and a whole lot more!
 <!--
 **Kib-by/Kib-by** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
