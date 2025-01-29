@@ -1,6 +1,6 @@
 ## Hi there 👋 my name is Kib-by!
-## I'm currently working on the Bowtiedcyber Bootcamp Express
-## I'm currently learning Linux, Python, Traffic analysis, and a whole lot more!
+
+## I've always been passionate about learning, and Github provides the perfect space to document my journey. My motivation comes from a desire to improve my coding skills, and create solutions that can help others. Whether it's working on beginner-friendly projects, or refining my problem-solving abilities, I see every repository as an opportunity to grow and challenge myself.
 <!--
 **Kib-by/Kib-by** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
