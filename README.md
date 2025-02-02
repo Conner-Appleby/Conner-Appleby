@@ -1,4 +1,4 @@
-## Hi there 👋 my name is Kib-by!
+## Hi there 👋 my name is Conner!
 
 ## I've always been passionate about learning, and Github provides the perfect space to document my journey. My motivation comes from a desire to improve my coding skills, and create solutions that can help others. Whether it's working on beginner-friendly projects, or refining my problem-solving abilities, I see every repository as an opportunity to grow and challenge myself.
 <!--
