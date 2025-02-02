@@ -1,6 +1,13 @@
-## Hi there 👋 my name is Conner!
+## Welcome to my Github profile 👋
+🚀 Aspiring Cybersecurity Professional | Python Automation | Network Security
 
-## I've always been passionate about learning, and Github provides the perfect space to document my journey. My motivation comes from a desire to improve my coding skills, and create solutions that can help others. Whether it's working on beginner-friendly projects, or refining my problem-solving abilities, I see every repository as an opportunity to grow and challenge myself.
+**📌 Skills and Tools:** Python, Linux, Networking, Security
+
+**📌 Cerifications:** CompTIA Network + | CompTIA Security + | AZ900 (Azure Fundamentals)
+
+**📌 Lets Connect:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/connerappleby/)
+
+
 <!--
 **Kib-by/Kib-by** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
